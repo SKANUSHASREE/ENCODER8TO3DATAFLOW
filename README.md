@@ -1,4 +1,4 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+![exp5](https://github.com/user-attachments/assets/4046ecf5-fdc1-477f-9858-10a0beafc868)### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
@@ -63,15 +63,12 @@ Developed by:S KANUSHA SREE
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-
-
+![exp5](https://github.com/user-attachments/assets/0d461891-afc4-45fa-8aeb-b1c17c169cb7)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![Screenshot 2024-11-29 114516](https://github.com/user-attachments/assets/1de0b575-d33c-4758-a6ee-f2f30bf58c02)
 
 
 **RESULTS**
-
-
-
-
+Implemented  Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functionality using their functional tables.
